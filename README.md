@@ -1,6 +1,6 @@
 # Online Wallet
 
-A simple wallet application with a Laravel backend and a Next.js (TypeScript + Tailwind) frontend. The project supports user registration/login, deposit and withdrawal requests, and an admin panel for approving or rejecting user requests.
+A wallet application with a Laravel backend and a Next.js (TypeScript + Tailwind) frontend. The project supports user registration/login, deposit and withdrawal requests, and an admin panel for approving or rejecting user requests.
 
 ## Repository Layout
 
@@ -121,6 +121,4 @@ Check `backend/routes/api.php` for the full list of endpoints and middleware.
 
 ---
 
-If you'd like, I can also add a short `README-DEV.md` with one-command dev startup scripts or a `docker-compose.yml` for local dev.
 
-\*\*\* End Patch
